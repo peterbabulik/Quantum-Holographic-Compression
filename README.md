@@ -97,8 +97,8 @@ Since this project bridges Quantum Gravity and Artificial Intelligence, we use s
 *   **Project VERITAS:** The experiment measuring **Truth**. It found that as a universe becomes more complex (entangled), it paradoxically becomes easier for a Holographic AI to predict due to mean-field effects.
 
 ### 🌌 Physics & Cosmology
-*   **The Bulk (Ground Truth):** The high-dimensional, fully entangled volume of spacetime. In our simulations, this is the "Expensive" physics engine ($O(R^2)$) that calculates every long-range interaction.
-*   **The Hologram (The Screen):** The lower-dimensional, compressed representation of the Bulk. In our simulations, this is the "Cheap" AI ($O(1)$) that predicts the universe using only nearest-neighbor data.
+*   **The Bulk (Ground Truth):** The high-dimensional, fully entangled volume of spacetime. In our simulations, this is the "Expensive" physics engine (O(R^2)) that calculates every long-range interaction.
+*   **The Hologram (The Screen):** The lower-dimensional, compressed representation of the Bulk. In our simulations, this is the "Cheap" AI (O(1)) that predicts the universe using only nearest-neighbor data.
 *   **Quantum Graphity:** A theory of gravity where spacetime is not a smooth background, but a dynamic graph of discrete nodes. Space "emerges" when these nodes entangle.
 *   **Hamiltonian:** The energy function describing the "Laws of Physics." In our simulation, it defines how particles move (Kinetic) and how space expands (Potential/Repulsion).
 *   **Phase Transition:** A sudden change in the state of the system (e.g., liquid to gas). In this project, we observe transitions from "Black Hole" to "Stable Universe" (Physics), and from "Random Guessing" to "Intelligent Reasoning" (AI).
