@@ -85,3 +85,27 @@ This implies that **consciousness or observation does not need to render the ent
 ---
 
 MIT License. Open for fork and study.
+
+## 🗺️ Terminology Map
+
+Since this project bridges Quantum Gravity and Artificial Intelligence, we use specific terms to describe the computational experiments.
+
+### 🔐 Project Codenames
+*   **Echo Cassandra:** The overarching hypothesis of this repository. It posits that a local, compressed observer ("Cassandra") can predict the future of a complex universe ("The Echo") without calculating the full underlying physics, provided the observer focuses only on local interactions.
+*   **QuILT (Quantum-Inspired Learning in Tensor-space):** The novel method developed in Part 2. It uses a simulated Quantum State Vector to represent a superposition of Neural Architectures, allowing us to search for the best AI model using quantum probability rules rather than brute force.
+*   **Project SCOPE:** The experiment measuring **Speed**. It found the "Holographic Bound"—the complexity threshold where compressed prediction becomes computationally faster than simulating reality.
+*   **Project VERITAS:** The experiment measuring **Truth**. It found that as a universe becomes more complex (entangled), it paradoxically becomes easier for a Holographic AI to predict due to mean-field effects.
+
+### 🌌 Physics & Cosmology
+*   **The Bulk (Ground Truth):** The high-dimensional, fully entangled volume of spacetime. In our simulations, this is the "Expensive" physics engine ($O(R^2)$) that calculates every long-range interaction.
+*   **The Hologram (The Screen):** The lower-dimensional, compressed representation of the Bulk. In our simulations, this is the "Cheap" AI ($O(1)$) that predicts the universe using only nearest-neighbor data.
+*   **Quantum Graphity:** A theory of gravity where spacetime is not a smooth background, but a dynamic graph of discrete nodes. Space "emerges" when these nodes entangle.
+*   **Hamiltonian:** The energy function describing the "Laws of Physics." In our simulation, it defines how particles move (Kinetic) and how space expands (Potential/Repulsion).
+*   **Phase Transition:** A sudden change in the state of the system (e.g., liquid to gas). In this project, we observe transitions from "Black Hole" to "Stable Universe" (Physics), and from "Random Guessing" to "Intelligent Reasoning" (AI).
+
+### 🤖 AI & Computation
+*   **NAS (Neural Architecture Search):** The process of automating the design of Artificial Neural Networks. Instead of a human choosing "4 layers" or "8 layers," an algorithm discovers the best structure.
+*   **VQE (Variational Quantum Eigensolver):** An algorithm typically used on Quantum Computers to find the ground state of molecules. We repurpose it here to find the "Optimal Neural Network" by treating the search space as an energy landscape.
+*   **MPS (Matrix Product State):** A Tensor Network method used to represent quantum states efficiently. It is the mathematical engine behind "Quantum Compression," allowing us to simulate many qubits with little RAM by ignoring low-entanglement correlations.
+*   **PicoTransformer:** The tiny, custom-built Transformer model used in our experiments to test intelligence. It is a scaled-down version of the architecture behind models like GPT-4.
+*   **Grokking:** A phenomenon in AI training where a model's accuracy remains flat (near zero) for a long time, then suddenly spikes as it learns the underlying algorithm rather than just memorizing data.
