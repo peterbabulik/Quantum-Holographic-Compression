@@ -86,8 +86,17 @@ t
  )
 
 **Project Cassandra** proves that there exists a compressed function $G$ (The Hologram) such that:
-$$ S_{t+1} \approx G_{\text{surface}}(S_t) $$
-$$ \text{Cost}(G) \ll \text{Cost}(F) $$
+S 
+t+1
+​
+ ≈G 
+surface
+​
+ (S 
+t
+​
+ )
+Cost(G)≪Cost(F)
 
 This implies that **consciousness or observation does not need to render the entire universe**. It only needs to run a compressed, predictive algorithm to maintain causal consistency. When the Bulk complexity passes a critical threshold (The Holographic Bound), the Holographic approximation becomes the evolutionarily dominant strategy.
 
