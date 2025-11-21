@@ -74,29 +74,11 @@ We tested the system on the **DeepMind Mathematics Dataset**.
 The unifying principle of this repository is the **Echo Cassandra** protocol.
 
 In classical simulation, to know the future state $S_{t+1}$, one must compute the full transition function $F(S_t)$ involving all microscopic interactions:
-S 
-t+1
-​
- =F 
-bulk
-​
- (S 
-t
-​
- )
+# S t+1 =Fbulk(St)
 
 **Project Cassandra** proves that there exists a compressed function $G$ (The Hologram) such that:
-S 
-t+1
-​
- ≈G 
-surface
-​
- (S 
-t
-​
- )
-Cost(G)≪Cost(F)
+# St+1≈Gsurface(St)
+# Cost(G)≪Cost(F)
 
 This implies that **consciousness or observation does not need to render the entire universe**. It only needs to run a compressed, predictive algorithm to maintain causal consistency. When the Bulk complexity passes a critical threshold (The Holographic Bound), the Holographic approximation becomes the evolutionarily dominant strategy.
 
