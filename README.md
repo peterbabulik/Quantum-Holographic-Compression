@@ -74,7 +74,7 @@ We tested the system on the **DeepMind Mathematics Dataset**.
 The unifying principle of this repository is the **Echo Cassandra** protocol.
 
 In classical simulation, to know the future state $S_{t+1}$, one must compute the full transition function $F(S_t)$ involving all microscopic interactions:
-# S t+1 =Fbulk(St)
+# St+1=Fbulk(St)
 
 **Project Cassandra** proves that there exists a compressed function $G$ (The Hologram) such that:
 # St+1≈Gsurface(St)
